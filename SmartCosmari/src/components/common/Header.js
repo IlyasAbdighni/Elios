@@ -27,7 +27,7 @@ const styles = {
     position: 'relative'
   },
   textStyle: {
-    color: '#C5D9C9',
+    color: '#fff',
     fontSize: 20,
     fontWeight: '600'
   }
